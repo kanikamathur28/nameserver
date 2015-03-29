@@ -1,0 +1,6 @@
+5
+google.com 128.45.6.8 
+yahoo.com 198.10.100.1   
+scu.edu 128.4.3.1 
+machine1.cs.scu.edu 128.45.6.3 
+machine2.yahoo.com 12.4.3.7 
